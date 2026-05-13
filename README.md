@@ -59,7 +59,7 @@ Analytics dashboard created in Databricks SQL.
 
 ### Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ### Bronze Layer
 
