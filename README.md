@@ -16,7 +16,7 @@ This project demonstrates:
 
 ## Architecture
 
-RAW → Bronze → Silver → Gold
+![Architecture](architecture.png)
 
 ---
 
